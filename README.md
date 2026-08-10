@@ -12,3 +12,9 @@ docker pull gitlab/gitlab-ce
 <img width="1344" height="293" alt="image" src="https://github.com/user-attachments/assets/84856c41-d78b-4c63-af9a-7b0a151371ac" />
 
 ---
+
+#### gitlab containers run
+```bash
+docker run -p 8000:80 gitlab/gitlab-ce
+```
+---
